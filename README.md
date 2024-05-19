@@ -1,6 +1,15 @@
 # FrostOS - Terminal-Based Operating System in the Browser
 
-![FrostOS look](https://cdn.discordapp.com/attachments/805554377745235974/1241849426503536650/frostos.png?ex=664bb1e7&is=664a6067&hm=f9c491f2a14973ced4e2ff32be05721559bcf72d4b0171542cb01bc65f1144bc&)
+ <p align="center">
+    <img alt="Language" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+   <img alt="Language" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=black"/>
+    <img alt="Language" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+  </p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/805554377745235974/1241852150863364096/frostos2.png?ex=664bb471&is=664a62f1&hm=bc0a5957ba9bd733a00f882ca4b3155e04cadead0f9cbad19626652dc41679e5&" alt="FrostOS look">
+</p>
+
 
 FrostOS is a terminal-based operating system that runs in your browser. It provides various commands to navigate and interact with the system. Explore the features and functionalities below.
 
@@ -72,4 +81,6 @@ FrostOS is a terminal-based operating system that runs in your browser. It provi
 
 ---
 
-*This project is a part of my portfolio.*
+*📊 - This project is a part of my portfolio.*
+
+*💻 - This project was a personal challenge, developed entirely with Vanilla JS.*
