@@ -1,8 +1,8 @@
 # FrostOS - Terminal-Based Operating System in the Browser
 
-![FrostOS Logo](assets/logo.png)
+![FrostOS look](https://cdn.discordapp.com/attachments/805554377745235974/1241849426503536650/frostos.png?ex=664bb1e7&is=664a6067&hm=f9c491f2a14973ced4e2ff32be05721559bcf72d4b0171542cb01bc65f1144bc&)
 
-Welcome to FrostOS, a terminal-based operating system that runs right in your browser. FrostOS offers a variety of commands to help you navigate and interact with the system. Explore the features and functionalities below.
+FrostOS is a terminal-based operating system that runs in your browser. It provides various commands to navigate and interact with the system. Explore the features and functionalities below.
 
 ## Table of Contents
 
@@ -70,6 +70,6 @@ Welcome to FrostOS, a terminal-based operating system that runs right in your br
 3. yng16
 
 
---
+---
 
 *This project is a part of my portfolio.*
