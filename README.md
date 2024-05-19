@@ -4,8 +4,7 @@
 
 Welcome to FrostOS, a terminal-based operating system that runs right in your browser. FrostOS offers a variety of commands to help you navigate and interact with the system. Explore the features and functionalities below.
 
-<details>
-  <summary>Table of Contents</summary>
+## Table of Contents
 
 - [Basic Commands](#basic-commands)
 - [File System Commands](#file-system-commands)
@@ -13,7 +12,6 @@ Welcome to FrostOS, a terminal-based operating system that runs right in your br
 - [Game Commands](#game-commands)
 - [Music Commands](#music-commands)
 - [List of OS Songs](#list-of-os-songs)
-</details>
 
 ## Basic Commands
 
@@ -71,8 +69,7 @@ Welcome to FrostOS, a terminal-based operating system that runs right in your br
 2. yourlove
 3. yng16
 
-Feel free to explore FrostOS and enjoy its features!
 
----
+--
 
-*This project is actively maintained. Contributions are welcome!*
+*This project is a part of my portfolio.*
