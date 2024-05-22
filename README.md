@@ -7,7 +7,7 @@
   </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/805554377745235974/1241852881439555696/image.png?ex=664bb51f&is=664a639f&hm=e75c09d34612b9360b334b25ef6759807892d13961cc2f68da95712953d94031&" alt="FrostOS look">
+  <img src="https://github.com/fr0st-iwnl/frostos/blob/main/images/Github/thumbnail.png" alt="FrostOS look">
 </p>
 
 
